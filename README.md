@@ -79,13 +79,13 @@ Balanced pricing is crucial – mid-range restaurants perform better in ratings 
 
 Clone the repository:
 
-git clone 
+git clone: https://github.com/araj8416-sudo/Zomato-Data-Analysis-Project/upload/main
 
 🧑‍💻 Author
 
 👤 Abhishek Kumar
 📌 Data Analyst | Python | SQL | Excel | Power BI
 
-📫 Connect with me: LinkedIn
+📫 Connect with me: LinkedIn:- https://www.linkedin.com/in/abhishek-kumar-8a1055376/
 
-👉 Full Project with Code & Visualizations: GitHub Repository
+👉 Full Project with Code & Visualizations: GitHub Repository:- https://github.com/araj8416-sudo/Zomato-Data-Analysis-Project/upload/main
