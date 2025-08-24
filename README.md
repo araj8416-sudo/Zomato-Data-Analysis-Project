@@ -88,4 +88,4 @@ git clone: https://github.com/araj8416-sudo/Zomato-Data-Analysis-Project/upload/
 
 📫 Connect with me: LinkedIn:- https://www.linkedin.com/in/abhishek-kumar-8a1055376/
 
-👉 Full Project with Code & Visualizations: GitHub Repository:- https://github.com/araj8416-sudo/Zomato-Data-Analysis-Project/upload/main
+👉 Full Project with Code & Visualizations: (https://github.com/araj8416-sudo/Zomato-Data-Analysis-Project/blob/main/Portfolio%202%20zomato%20data%20analysis%20project.ipynb)
